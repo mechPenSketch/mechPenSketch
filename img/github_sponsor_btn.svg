@@ -61,7 +61,7 @@
      height="28"
      rx="8"
      fill="#ff5e5b"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#9300f5;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:#9300f5;fill-opacity:0.5;fill-rule:evenodd;stroke:#9300f5;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      d="m 29.252577,10.912 c 0.57462,-1.6874 1.9364,-2.531 4.0853,-2.531 3.2234,0 4.4184,4.0247 2.7288,6.6559 -1.1264,1.7541 -3.3978,3.9728 -6.8141,6.6559 -3.4163,-2.6832 -5.6877,-4.9018 -6.8141,-6.6559 -1.6896,-2.6312 -0.49462,-6.6559 2.7288,-6.6559 2.1489,0 3.5107,0.84368 4.0853,2.531 z"
      fill="#ff5e5b"
