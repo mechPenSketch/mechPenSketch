@@ -4,7 +4,7 @@
 
 #### [FSM (Finite State Machine)](https://github.com/mechPenSketch/FiniteStateMachine)
 
-#### [JRPG Fragment - Overworld (Action Sequence Dock)](https://github.com/mechPenSketch/Jrpg_Fragment-Overworld-Action_Sequence_Dock)
+#### JRPG Fragment - Overworld  ([Action Sequence Dock](https://github.com/mechPenSketch/Jrpg_Fragment-Overworld-Action_Sequence_Dock) / [Dialogic](https://github.com/mechPenSketch/Jrpg_Fragment-Overworld-Dialogic))
 
 ### About Me
 
