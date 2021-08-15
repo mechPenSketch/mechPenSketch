@@ -16,6 +16,8 @@
 
 - :blue_book: Assets and plugins made for Godot are archieved in my [Ko-fi gallery](https://ko-fi.com/mechpensketch/gallery). They can also be found in this Repostory as well as Godot's Asset Library.
 
+- :shirt: Buy my merch at [Teespring](https://mechpensketch.creator-spring.com/).
+
 [![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/mechPenSketch)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I1208SA)
