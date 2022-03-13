@@ -4,13 +4,13 @@
 
 #### [FSM (Finite State Machine)](https://github.com/mechPenSketch/FiniteStateMachine)
 
+#### [Database](https://github.com/mechPenSketch/Database)
+
 ### JRPG Fragment
 
 #### Overworld  ([Action Sequence Dock](https://github.com/mechPenSketch/Jrpg_Fragment-Overworld-Action_Sequence_Dock) / [Dialogic](https://github.com/mechPenSketch/Jrpg_Fragment-Overworld-Dialogic))
 
 #### [Turn-based Combat](https://github.com/mechPenSketch/Jrpg_Fragment-TurnBased_Combat)
-
-#### [Database](https://github.com/mechPenSketch/Database)
 
 ### About Me
 
